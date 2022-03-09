@@ -109,7 +109,7 @@ This console also works in non-interactive mode:
 ```
 ## Authors :memo:
 
-- **Ezra Nobrega <(ezra.nobrega@outlook.com)>
-- **Justin Majetich <(justinmajetich@gmail.com)>
+- **Ezra Nobrega <[Ezra](ezra.nobrega@outlook.com)>
+- **Justin Majetich <[Justin](justinmajetich@gmail.com)>
 - **Sentayehu Tilahun Adamu** <[Sentayehut](https://github.com/sentayehut)>
 - **Tihitna Sisay Tadesse** <[Tihitna](https://github.com/Tihitna-22)>
